@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!
 
-### More Information
+My name is Miliban and I am from Ottawa. I got my undergrad in B.Comm with a specialization in Management Information Systems from the University of Ottawa. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Want to know more?
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm super into data viz and am a huge foodie! Check out my food <a href="www.letsdinein.blog">blog! </a>
