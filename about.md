@@ -10,4 +10,4 @@ My name is Miliban and I am from Ottawa. I got my undergrad in B.Comm with a spe
 
 ### Want to know more?
 
-I'm super into data viz and am a huge foodie! Check out my food <a href="www.letsdinein.blog">blog! </a>
+I'm super into data viz and am a huge foodie! Check out my food <a href="https://www.letsdinein.blog">blog! </a>
