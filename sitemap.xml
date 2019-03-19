@@ -67,6 +67,15 @@
     
     <url>
     
+      <loc>https://mkeyim.github.io/tags/microsoft/</loc>
+      <lastmod>2019-02-26T03:15:12-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mkeyim.github.io/</loc>
       <lastmod>2019-02-26T03:15:12-07:00</lastmod>
       <priority>0</priority>
@@ -77,6 +86,15 @@
     <url>
     
       <loc>https://mkeyim.github.io/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mkeyim.github.io/tags/power-bi/</loc>
+      <lastmod>2019-02-26T03:15:12-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -115,6 +133,7 @@
     <url>
     
       <loc>https://mkeyim.github.io/tags/</loc>
+      <lastmod>2019-02-26T03:15:12-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -123,6 +142,24 @@
     <url>
     
       <loc>https://mkeyim.github.io/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mkeyim.github.io/tags/auto/</loc>
+      <lastmod>2019-02-26T03:15:12-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mkeyim.github.io/tags/data-visualization/</loc>
+      <lastmod>2019-02-26T03:15:12-07:00</lastmod>
       <priority>0</priority>
     </url>
     
